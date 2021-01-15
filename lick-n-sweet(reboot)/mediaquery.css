@@ -330,8 +330,8 @@
     }
 
     .catering-school-gallery .container .flex img{
-        width: 100%;
-        height: 100%;
+        width: 300px !important;
+        height: 300px !important;
     }
 
     .work-top .container.flex,
@@ -524,6 +524,11 @@
     .work-hours .card,
     .school-hours .card{
         width: 300px;
+    }
+    
+    .catering-school-gallery .container .flex img{
+        width: 250px !important;
+        height: 250px !important;
     }
 
     .about-us .container .grid .text,
